@@ -1,0 +1,14 @@
+{ "columns":15,
+ "image":"tilesets\/pared.png",
+ "imageheight":510,
+ "imagewidth":504,
+ "margin":0,
+ "name":"pared",
+ "spacing":0,
+ "tilecount":225,
+ "tiledversion":"1.11.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}
