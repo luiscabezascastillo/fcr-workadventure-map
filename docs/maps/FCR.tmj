@@ -202,7 +202,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets\/03intonacorovinato.png",
+         "image":"tilesets\/03intonacorovinato.tsj",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -214,7 +214,7 @@
         }, 
         {
          "firstgid":257,
-         "source":"tilesets\/pared.tsx"
+         "source":"tilesets\/pared.tsj"
         }],
  "tilewidth":32,
  "type":"map",
